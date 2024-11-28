@@ -1,2 +1,2 @@
 Sistema de gestion de productos y ventas para Mercado.
-La DB es el archivo llamado Despensa_jr.sql
+La DB es el archivo llamado mercadito_jr.sql
